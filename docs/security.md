@@ -10,3 +10,13 @@ Controls implemented:
 Incident handling:
 - Security incidents are reviewed within 24 hours
 - Critical incidents trigger notification to system owners
+
+
+
+## QA Smoke Test Marker
+
+This repository is used for Annex IV QA validation.
+Unique marker: SECURITY_SMOKE_REPO_98765
+
+Additional control:
+- Redis is used as an in-memory store with AUTH enabled and protected by IP allowlist.
