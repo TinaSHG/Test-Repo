@@ -1,0 +1,6 @@
+{
+  "modelId": "inventory-ai",
+  "oldArchitecture": "CNN",
+  "newArchitecture": "Transformer",
+  "reason": "Improved performance and scalability"
+}
